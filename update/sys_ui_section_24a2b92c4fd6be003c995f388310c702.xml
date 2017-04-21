@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="24a2b92c4fd6be003c995f388310c702" sys_domain="global" table="x_snc_mf_chg_cmus_manufacturing_change" version="3" view="emergencyChange">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>eca2b92c4fd6be003c995f388310c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_by</element>
+            <position>1</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>e0a2b92c4fd6be003c995f388310c705</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>2</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>64a2b92c4fd6be003c995f388310c704</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>3</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>68a2b92c4fd6be003c995f388310c705</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>4</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>e0a2b92c4fd6be003c995f388310c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact</element>
+            <position>5</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>e8a2b92c4fd6be003c995f388310c704</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risk</element>
+            <position>6</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>e8a2b92c4fd6be003c995f388310c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>eca2b92c4fd6be003c995f388310c704</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>8</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>60a2b92c4fd6be003c995f388310c704</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>9</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>64a2b92c4fd6be003c995f388310c705</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>10</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>e4a2b92c4fd6be003c995f388310c704</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>11</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>e8a2b92c4fd6be003c995f388310c705</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>12</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>68a2b92c4fd6be003c995f388310c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>13</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>6ca2b92c4fd6be003c995f388310c704</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes_list</element>
+            <position>14</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>6ca2b92c4fd6be003c995f388310c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>15</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>60a2b92c4fd6be003c995f388310c705</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>16</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>e0a2b92c4fd6be003c995f388310c704</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>com.glideapp.questionset.DefaultQuestionEditor</element>
+            <position>17</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>e4a2b92c4fd6be003c995f388310c705</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type>component</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>18</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>68a2b92c4fd6be003c995f388310c704</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">24a2b92c4fd6be003c995f388310c702</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_mf_chg_cmus_manufacturing_change</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:45</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>24a2b92c4fd6be003c995f388310c702</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_mf_chg_cmus_manufacturing_change</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Manufacturing Change" source="x_snc_mf_chg_cmus">bbdaa1e44fd6be003c995f388310c742</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Manufacturing Change">bbdaa1e44fd6be003c995f388310c742</sys_scope>
+            <sys_update_name>sys_ui_section_24a2b92c4fd6be003c995f388310c702</sys_update_name>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:45</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Emergency" name="emergencyChange">7964e0530a0a0b8c00ae51f470e50465</view>
+            <view_name>emergencyChange</view_name>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

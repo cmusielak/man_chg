@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Schedule" section_id="a8a2b92c4fd6be003c995f388310c730" sys_domain="global" table="x_snc_mf_chg_cmus_manufacturing_change" version="3" view="cab_workbench">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_by_date</element>
+            <position>0</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>a4a2b92c4fd6be003c995f388310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">a8a2b92c4fd6be003c995f388310c730</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>1</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>a8a2b92c4fd6be003c995f388310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">a8a2b92c4fd6be003c995f388310c730</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>2</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>aca2b92c4fd6be003c995f388310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">a8a2b92c4fd6be003c995f388310c730</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>3</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>24a2b92c4fd6be003c995f388310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">a8a2b92c4fd6be003c995f388310c730</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>4</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>28a2b92c4fd6be003c995f388310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">a8a2b92c4fd6be003c995f388310c730</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_delegate</element>
+            <position>5</position>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_id>2ca2b92c4fd6be003c995f388310c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">a8a2b92c4fd6be003c995f388310c730</sys_ui_section>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Schedule</caption>
+            <header>false</header>
+            <name>x_snc_mf_chg_cmus_manufacturing_change</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>test.user</sys_created_by>
+            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>a8a2b92c4fd6be003c995f388310c730</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Schedule</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Manufacturing Change" source="x_snc_mf_chg_cmus">bbdaa1e44fd6be003c995f388310c742</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Manufacturing Change">bbdaa1e44fd6be003c995f388310c742</sys_scope>
+            <sys_update_name>sys_ui_section_a8a2b92c4fd6be003c995f388310c730</sys_update_name>
+            <sys_updated_by>test.user</sys_updated_by>
+            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="cab_workbench" name="cab_workbench">20699ec6db3022004d27b31be0b8f546</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
