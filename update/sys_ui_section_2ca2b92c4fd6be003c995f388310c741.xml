@@ -4,28 +4,28 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>change_request_conflict_progress.xml</element>
             <position>0</position>
-            <sys_created_by>test.user</sys_created_by>
-            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
-            <sys_id>28a2b92c4fd6be003c995f388310c742</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-21 03:21:51</sys_created_on>
+            <sys_id>110ae7b84fd2fe003c995f388310c7b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Conflict Checker Progress">f6764f93efa002008e4c36caa5c0fb67</sys_ui_formatter>
             <sys_ui_section caption="Conflicts" display_value="Conflicts" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="Default view">2ca2b92c4fd6be003c995f388310c741</sys_ui_section>
-            <sys_updated_by>test.user</sys_updated_by>
-            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-21 03:21:51</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>REL.change_request.REL:ebef7dc8eff002008e4c36caa5c0fb45</element>
             <position>1</position>
-            <sys_created_by>test.user</sys_created_by>
-            <sys_created_on>2017-04-20 00:01:46</sys_created_on>
-            <sys_id>a8a2b92c4fd6be003c995f388310c742</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-21 03:21:51</sys_created_on>
+            <sys_id>d10ae7b84fd2fe003c995f388310c7b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Conflicts" display_value="Conflicts" name="x_snc_mf_chg_cmus_manufacturing_change" sys_domain="global" view="Default view">2ca2b92c4fd6be003c995f388310c741</sys_ui_section>
-            <sys_updated_by>test.user</sys_updated_by>
-            <sys_updated_on>2017-04-20 00:01:46</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-21 03:21:51</sys_updated_on>
             <sys_user/>
             <type>list</type>
         </sys_ui_element>
